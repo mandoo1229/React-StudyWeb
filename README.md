@@ -12,9 +12,16 @@
 
 ❖ library ❖
 
-- Material Ui
+- React BootStrap
 
-npm install @mui/material @emotion/react @emotion/styled
+실행방법
+```
+npm install
+```
+
+```
+npm start
+```
 
 ## Git Convention
 
