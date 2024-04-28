@@ -1,0 +1,60 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #eeeeef;
+}
+
+
+.container {
+    width: 30%;
+    /* height: 65%; */
+    margin: auto;
+    background: #ffffff;
+    margin-top: 5%;
+}
+
+
+
+.sign-info {
+    margin:30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nick-name {
+    margin: 2px;
+    font-size: 20px;
+
+}
+
+.email {
+    margin: 2px;
+    font-size: 20px;
+}
+
+.password {
+    margin: 2px;
+    font-size: 20px;
+}
+
+.job {
+    margin: 2px;
+    font-size: 20px;
+}
+
+.sign-font {
+    margin: 0 0 2% 2%;
+}
+
+.sign-button {
+    margin: 10px;
+}
+
+/* .login-name {
+    margin: 20px;
+} */
+
+.sign-button1 {
+    margin-left: 10%;
+}
