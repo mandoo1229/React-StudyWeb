@@ -10,7 +10,7 @@ import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 
 
-import '../../styles/signup.css';
+// import '../../styles/signup.css';
 
 
 const Signup = () => {
