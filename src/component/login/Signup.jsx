@@ -46,7 +46,7 @@ const Signup = () => {
     return (
         <>
             <div>
-            <div className='container'>
+            <div className='containers'>
                 <div style={{ width: "100%", height: "10px"}}></div>
             <h2 style={{textAlign:"center"}}>회원가입</h2>
                 <div className='sign-info'>
@@ -114,7 +114,7 @@ const Signup = () => {
                         id="demo-simple-select"
                         value={occupation}
                         label="직업선택"
-                        onChange={(e)=> setCheckPassword(e.target.value)} 
+                        onChange={(e)=> setOccupation(e.target.value)} 
                         >
                         <MenuItem value={1}>개발자</MenuItem>
                         <MenuItem value={2}>디자이너</MenuItem>
